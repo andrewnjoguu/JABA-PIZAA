@@ -16,7 +16,7 @@ Jaba pizza is a holistic and creative pizza place started by Giovanni Costa in t
 5.jQuery
 
 ## GitHub Pages
-
+You can find the live link to the site here https://andrewnjoguu.github.io/JABA-PIZAA/ or down below
 ## Contact Information
 For any business inquires contact me via email  andrew.njogu@student.moringaschool.com 
 
